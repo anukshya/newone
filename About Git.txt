@@ -1,0 +1,3 @@
+Git is a distributed version control system.
+
+Git provides versioning, source history and logs, working with development team, see who modified what, compare chages over time,reverts file or whole project to an earlier state.
